@@ -1,4 +1,5 @@
 <html>
+	<title>關於診所 :: 林正修診所</title>
   <body>
   兩百字內的個人簡介
   </body>
